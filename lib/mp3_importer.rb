@@ -10,7 +10,8 @@
     @files.each {|file| Song.new_by_filename(file)}
   end 
   
-end =end 
+end 
+=end 
 
 
 class MP3Importer
